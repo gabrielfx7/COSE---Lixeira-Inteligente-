@@ -1,4 +1,4 @@
-# Exemplo de controle de lixeira inteligente
+
 peso_lixeira = 85  # 85% de capacidade
 hora_dia = 1  # 1 = dia, 0 = noite
 
